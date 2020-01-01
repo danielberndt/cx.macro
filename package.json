@@ -1,0 +1,15 @@
+{
+  "name": "cx.macro",
+  "version": "0.1.0",
+  "description": "concatenate potentially falsy values to a className string",
+  "main": "index.js",
+  "repository": "danielberndt/cx.macro",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Berndt <daniel.berndt@gmail.com> (https://danielberndt.net/)",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-macros": "^2.8.0"
+  }
+}
