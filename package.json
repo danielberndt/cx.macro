@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "description": "concatenate potentially falsy values to a className string",
   "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
   "repository": "danielberndt/cx.macro",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
