@@ -1,6 +1,6 @@
 {
   "name": "cx.macro",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "concatenate potentially falsy values to a className string",
   "main": "index.js",
   "types": "index.d.ts",
